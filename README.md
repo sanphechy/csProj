@@ -1,4 +1,4 @@
 # csProj
 # Teacher : sanphechy toonmark
 
-com scrient :  dataScint for secondary sch
+com scient :  dataScient for secondary school
